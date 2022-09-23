@@ -13,18 +13,18 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/shaunmichaelgreene",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/shaunmichaelgreene",
           "className":"fa fa-twitter"
         }
       ],
     "aboutme":"Shaun recently earned a Full Stack Developer Certificate by completing a 6 month instensive coding course through Michigan State University. Professionally, Shaun has worn many hats during his career; with prior experience in sales, business development, project management, oil & gas, and title research. Shaun currently works as a President's Club Title Analyst, and is focused on securing a new full-time position so that he can apply his new-found passion for web development. Shaun spends his free time building custom furniture, working on home improvements, and enjoying the outdoors with his family.",
     "address":"Pittsburgh, PA",
-    "website":"https://https://shaunmichaelgreene.github.io",
+    "website":"https://shaunmichaelgreene.github.io",
     "education":[
       {
         "UniversityName":"Michigan State University",
